@@ -23,8 +23,6 @@ coverage/
 /release-notes.md
 
 # Local secrets and logs
-.env
-.env.*
 !.env.example
 *.log
 
@@ -36,3 +34,4 @@ coverage/
 __pycache__/
 **/__pycache__/
 *.pyc
+config.bat
